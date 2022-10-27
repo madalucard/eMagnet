@@ -1,0 +1,19 @@
+{
+  "name": "emagnet",
+  "version": "1.0.0",
+  "description": "eMagnet launcher",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madalucard/eMagnet.git"
+  },
+  "author": "Martin \"MadAlucard\" Lapihuska",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madalucard/eMagnet/issues"
+  },
+  "homepage": "https://github.com/madalucard/eMagnet#readme"
+}
